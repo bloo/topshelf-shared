@@ -1,0 +1,7 @@
+.project
+.classpath
+target
+.gwt
+.settings
+.factorypath
+.env
